@@ -1,6 +1,3 @@
-Data Projects:
+Edmonds School District Parent Survey Dashboard - 
 
-  Edmonds School District Parent Survey - 
-  
-  2023 US Cost of Living - 
-  
+2023 US Cost of Living Dashboard - 
